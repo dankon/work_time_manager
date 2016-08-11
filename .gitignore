@@ -90,3 +90,6 @@ ENV/
 
 # Idea folder
 .idea
+
+# all config files (eq. with mysql credentials)
+*.cnf
